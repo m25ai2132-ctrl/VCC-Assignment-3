@@ -20,7 +20,7 @@ This setup shows how local and cloud environments can work together to handle wo
 ---
 
 ## Assignment Video
-[Watch the Assignment Video](https://drive.google.com/file/d/1ucuGa1sp33cD9EAQM6rQAnG9NprkS0JI/view?usp=sharing)
+https://drive.google.com/file/d/1uhDJTsZ1ZK-HbL9m9CYBnRC8BuKeX134/view?usp=drive_link
 
 ---
 
